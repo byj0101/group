@@ -55,7 +55,7 @@
 
 			<div class="another-sign-up-info">
 				<div class="line" />
-				<div class="info">다른 계정으로 로그인</div>
+				<div class="info">다른 계정으로 로그인test</div>
 				<div class="line" />
 			</div>
 
